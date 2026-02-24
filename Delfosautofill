@@ -8,8 +8,8 @@
 // @match        https://*.delfos.tur.ar/secure/*
 // @grant        none
 // @run-at       document-idle
-// @updateURL    https://raw.githubusercontent.com/TU_USUARIO/delfos-autofill/main/delfos-autofill.user.js
-// @downloadURL  https://raw.githubusercontent.com/TU_USUARIO/delfos-autofill/main/delfos-autofill.user.js
+// @updateURL    https://raw.githubusercontent.com/jlucasgarcia/Delfos-Autofill/main/delfos-autofill.user.js
+// @downloadURL  https://raw.githubusercontent.com/jlucasgarcia/Delfos-Autofill/main/delfos-autofill.user.js
 // ==/UserScript==
 
 (function () {
